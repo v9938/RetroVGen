@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Tuesday, February 05, 2019
+Project Path:       C:\Users\Public\Documents\DesignSpark PCB 8.1\Examples\RetroVGen.prj
+Design Path:        C:\Users\Public\Documents\DesignSpark PCB 8.1\Examples\GORRY_PCB_TAKACH.pcb
+Design Title:       
+Created:            2019/01/28 11:54:15
+Last Saved:         2019/02/05 14:54:12
+Editing Time:       1575 min
+Units:              mil (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

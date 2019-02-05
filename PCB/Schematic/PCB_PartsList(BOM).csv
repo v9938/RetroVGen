@@ -1,0 +1,30 @@
+Ref Name,Qty,Value,Component,Mfr. Part No.,compatible,Akizuki URL,Unit Price
+-,1,プラスティックケース,プラスティックケース,タカチ LC115H-F2,No,http://www.takachi-el.co.jp/data/bin/cad_file_download.php?kind=pdf&fname=lc115h-f2&series=LC,510
+-,4,タッピングねじ,タッピングねじ,3mm x 5mm,Yes,,
+,,,,,,,
+C1,1,電解コンデンサ,47uF,25MH747MEFC6.3X7,Yes,http://akizukidenshi.com/catalog/g/gP-10596/,10
+C2,1,セラミックコンデンサ,22pF,RDDC220J1H5L1,Yes,http://akizukidenshi.com/catalog/g/gP-11137/,5
+C3,1,セラミックコンデンサ,22pF,RDDC220J1H5L1,Yes,http://akizukidenshi.com/catalog/g/gP-11137/,5
+C4,,セラミックコンデンサ,0.1uF,RDER72E104K2K1H03B,Yes,http://akizukidenshi.com/catalog/g/gP-10147/,15
+C5,1,セラミックコンデンサ,0.1uF,RDER72E104K2K1H03B,Yes,http://akizukidenshi.com/catalog/g/gP-10147/,15
+C6,,セラミックコンデンサ,0.1uF,RDER72E104K2K1H03B,Yes,http://akizukidenshi.com/catalog/g/gP-10147/,15
+C7,1,電解コンデンサ,47uF,25MH747MEFC6.3X7,Yes,http://akizukidenshi.com/catalog/g/gP-10596/,10
+CN1,1,Dsubコネクタ,MINI D-SUB 15P,OMRON M4L-1542,Yes,https://www.fa.omron.co.jp/product/item/20951/,300
+CN2,1,ISPコネクタ,2.54mm 3Px2,BH-06SG,Yes,http://akizukidenshi.com/catalog/g/gC-13175/,15
+LED1,1,LED,LED 5MM RED,OSR5JA5E34B,Yes,http://akizukidenshi.com/catalog/g/gI-12605/,10
+PL1,,電源コネクタ,JST XH,JST XH-2,Yes,,0
+R1,1,抵抗,1000 R 1/6W,CF16J1KB,Yes,http://akizukidenshi.com/catalog/g/gR-16102/,100
+R2,1,抵抗,68 R 1/4W,MFS25F68RB,Yes,http://akizukidenshi.com/catalog/g/gR-08520/,200
+R3,1,抵抗,68 R 1/4W,MFS25F68RB,Yes,http://akizukidenshi.com/catalog/g/gR-08520/,200
+R4,1,抵抗,150 R 1/6W,CF16J150RB,Yes,http://akizukidenshi.com/catalog/g/gR-16151/,100
+R5,1,抵抗,10K R 1/6W,RD16S 10K,Yes,http://akizukidenshi.com/catalog/g/gR-16103/,100
+SW1,1,スイッチ,PS-85S,PS-85S(RED CAP),Yes,http://akizukidenshi.com/catalog/g/gP-08788/,40
+SW2,1,トグルスイッチ,1MS1T2B1M1QNS,1MS1-T2-B1-M1-Q-N-S,Yes,http://akizukidenshi.com/catalog/g/gP-12408/,80
+SW3,1,トグルスイッチ,1MS1T2B1M1QNS,1MS1-T2-B1-M1-Q-N-S,Yes,http://akizukidenshi.com/catalog/g/gP-12408/,80
+SW4,1,トグルスイッチ,1MS1T2B1M1QNS,1MS1-T2-B1-M1-Q-N-S,Yes,http://akizukidenshi.com/catalog/g/gP-12408/,80
+SW5,1,トグルスイッチ,1MS1T2B1M1QNS,1MS1-T2-B1-M1-Q-N-S,Yes,http://akizukidenshi.com/catalog/g/gP-12408/,80
+SW6,,スイッチ,PS-85S,PS-85N(BLACK CAP),Yes,http://akizukidenshi.com/catalog/g/gP-08785/,30
+U1,1,DC/DCユニット,Power Unit,AE-XCL102D503CR-G,Yes,http://akizukidenshi.com/catalog/g/gK-13065,300
+U2,1,マイコン,ATMEGA328P-PU,ATMEGA328P-PU,No,http://akizukidenshi.com/catalog/g/gI-03142/,230
+XTAL1,1,16MHz,XTAL16MHz,HUSG-16.000-20,Yes,http://akizukidenshi.com/catalog/g/gP-08671/,30
+,,,,,,部品代計,2560
